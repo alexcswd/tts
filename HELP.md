@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started (SSH)
 
 ### Reference Documentation
 For further reference, please consider the following sections:
